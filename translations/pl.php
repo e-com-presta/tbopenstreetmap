@@ -1,0 +1,34 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_7e9cea4fb21abc9cd4eeee5116f7e101'] = 'OpenStreetMap';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_2a148d45803712ad739b662dffa8283c'] = 'Wygeneruj mapę OpenStreetMap dla wszystkich swoich sklepów.';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_10e7fabaacf83460fbc898556a517743'] = 'Błędny wybór';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_c888438d14855d7d96a2724ee9c306bd'] = 'Ustawienia zostały zapisane';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_f4f70727dc34561dfde1a3c529b6205c'] = 'Ustawienia';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_50ea0c32e3e3657b82023fc864dcfcdf'] = 'Wyświetlaj zdjęcia sklepów';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_00d23a76e43b46dae9ec7aa9dcbebb32'] = 'Włączone';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_b9f5c797ebbf55adccdd8539a65a0241'] = 'Wyłączone';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_c9cc8cce247e49bae79f15173ce97354'] = 'Zapisz';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_e93c33bd1341ab74195430daeb63db13'] = 'Nazwa sklepu';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_062533fb1af5a2f09cfd09a78de85545'] = 'Adres';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_57d056ed0984166336b7879c2af3657f'] = 'Miejscowość';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_59716c97497eb9694541f7c3d37b1a4d'] = 'Kraj';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_bcc254b55c4a1babdf1dcb82c207506b'] = 'Telefon';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_1e884e3078d9978e216a027ecd57fb34'] = 'E-mail';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_23a5151445e0c061a51e74989d74ce44'] = 'Godziny pracy';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_fecfe88d423955b87791d6b03c5848ca'] = 'Tryb pełnoekranowy';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_53d67f1a3519e1d85c6ce095d78eaea8'] = 'Opuść tryb pełnoekranowy';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_f5ca4abce85e2dddb0342d0bae3a7270'] = 'Powiększ';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_30850b501f98539b1aabaa29fabe41ef'] = 'Pomniejsz';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_673ae02fffb72f0fe68a66f096a01347'] = 'Telefon:';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_df1555fe48479f594280a2e03f9a8186'] = 'E-mail:';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_987b3c77d9201482d634a4ff29148625'] = 'Wskazówki dojazdu';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_6f8522e0610541f1ef215a22ffa66ff6'] = 'Poniedziałek';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_5792315f09a5d54fb7e3d066672b507f'] = 'Wtorek';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_796c163589f295373e171842f37265d5'] = 'Środa';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_78ae6f0cd191d25147e252dc54768238'] = 'Czwartek';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_c33b138a163847cdb6caeeb7c9a126b4'] = 'Piątek';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_8b7051187b9191cdcdae6ed5a10e5adc'] = 'Sobota';
+$_MODULE['<{tbopenstreetmap}prestashop>tbopenstreetmap_9d1a0949c39e66a0cd65240bc0ac9177'] = 'Niedziela';
