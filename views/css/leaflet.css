@@ -6,6 +6,10 @@
 #osmap-table .shop-img {
     max-width: 140px;
 }
+#osmap-table img {
+    margin-left: auto;
+    margin-right: auto;
+}
 #osmap-table .table > tbody > tr > td {
     vertical-align: middle;
 }
